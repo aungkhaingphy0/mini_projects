@@ -4,7 +4,7 @@ A simple scriipt to play dice with computer in Terminal
 ### Prerequisites
 <!--Remove the below lines and add yours -->
 Used bult-in module: Random
-(Including a `requirements.txt` file will work.)
+
 
 ### How to run the script
 dice_computer.py
