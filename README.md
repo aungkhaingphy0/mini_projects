@@ -16,6 +16,5 @@ Steps on how to run the script along with suitable examples.
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
-@aungkhaingphy0
-If you have a web site or a Git user name, feel free to link.
+https://github.com/aungkhaingphy0
 
